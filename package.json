@@ -1,0 +1,33 @@
+{
+  "name": "gw2reset",
+  "description": "Calculates Guild Wars 2 daily/WvW/guild reset times.",
+  "author": {
+    "name": "Peter Johnson"
+  },
+  "homepage": "https://github.com/uselesscode/gw2reset",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uselesscode/gw2reset.git"
+  },
+  "bugs": "https://github.com/uselesscode/gw2reset/issues",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-6to5": "^2.0.2",
+    "gulp-cached": "0.0.3",
+    "gulp-clean": "^0.3.0",
+    "gulp-concat": "^2.2.0",
+    "gulp-eslint": "^0.2.0",
+    "gulp-gzip": "0.0.6",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-replace": "^0.5.0",
+    "gulp-uglify": "^0.3.0"
+  }
+}
